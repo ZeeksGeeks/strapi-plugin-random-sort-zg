@@ -3,22 +3,22 @@
   "version": "0.0.2",
   "description": "Randomly sort the content of a collection",
   "strapi": {
-    "name": "random-sort",
+    "name": "random-sort-zg",
     "description": "Randomly sort the content of a collection",
     "kind": "plugin",
     "displayName": "Random Sort"
   },
   "dependencies": {},
   "author": {
-    "name": "Excl Networks Inc."
+    "name": "ZeeksGeeks"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/excl-networks/strapi-plugin-random-sort"
+    "url": "https://github.com/ZeeksGeeks/strapi-plugin-random-sort-zg"
   },
   "maintainers": [
     {
-      "name": "Excl Networks Inc."
+      "name": "ZeeksGeeks"
     }
   ],
   "engines": {
